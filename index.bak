@@ -1,75 +1,56 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html>
 
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1″ />
+<meta charset="UTF-8">
 	<title>Theresa Neate | Test Consultant, Quality Analyst</title>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-
 	<meta name="keywords" content="" />
 	<meta name="description" content="" />
-
 	<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.7.0/build/reset-fonts-grids/reset-fonts-grids.css" media="all" />
 	<link rel="stylesheet" type="text/css" href="resume.css" media="all" />
-
 </head>
-
 <body>
-
 <div id="doc2" class="yui-t7">
 	<div id="inner">
-
 		<div id="hd">
 			<div class="yui-gc">
 				<div class="yui-u first">
 					<h1>Theresa Neate</h1>
 					<h2>Test Consultant, Quality Analyst</h2>
 				</div>
-
 				<div class="yui-u">
 					<div class="contact-info">
-
-
 						<h3></h3>
 					</div><!--// .contact-info -->
 				</div>
 			</div><!--// .yui-gc -->
 		</div><!--// hd -->
-
 		<div id="bd">
 			<div id="yui-main">
 				<div class="yui-b">
-
 					<div class="yui-gf">
 						<div class="yui-u first">
 							<h2>Profile</h2>
 						</div>
 						<div class="yui-u">
 							<p class="enlarge">
-								Theresa Neate is a career tester and test consultant. She has 2 decades of IT and non-IT testing and QA experience, coming recently from the ThoughtWorks consultancy stable, followed by a stint at Australia Post’s Digital Delivery Centre and is now working for digital media icon REA Group in Melbourne, Australia. REA are a global digital media company who want to change the way the world experiences property. Their leading brand is Australia’s largest online property audience, realestate.com.au.
+								Theresa Neate is a career tester and test consultant who loves lean and agility and advocates for holistic system quality – and therefore all things DevOps. She has 2 decades of IT and non-IT testing and QA experience, coming recently from the ThoughtWorks consultancy stable, followed by a stint at Australia Post’s Digital Delivery Centre and is now working for digital media icon REA Group in Melbourne, Australia. REA are a global digital media company who want to change the way the world experiences property. Their leading brand is Australia’s largest online property audience, <a href="https://www.realestate.com.au" target="_blank">realestate.com.au</a>.</br> </br>You can find Theresa on <a href= "https://twitter.com/TeresitaTheresa">Twitter</a> and at <a href="http://theresaneate.com">theresaneate.com</a>.
 							</p>
 						</div>
 					</div><!--// .yui-gf -->
-
 					<div class="yui-gf">
 						<div class="yui-u first">
 							<h2>Speaker</h2>
 						</div>
 						<div class="yui-u">
-
-
-									<h2>The tester's valuable QAops role in the Devops world </br><a href="http://www.qualitysoftware.com.au/sessions/the-testers-valuable-qaops-role-in-the-devops-world-2/"></h2>
+									<h2>The tester's valuable QAops role in the Devops world </br> <a href="http://www.qualitysoftware.com.au/sessions/the-testers-valuable-qaops-role-in-the-devops-world-2/"></h2>
 										<h3>Quality Software Australia 2017</a></h3></br>
-
 									<h2>Shifting quality left</br> <a href="http://lanyrd.com/2015/lastconf/"></h2>
 										<h3>LAST Conference 2015</a></h3></br>
-
 									<h2>Agile Testing - Shifting quality to the left</br> <a href="http://lanyrd.com/2015/1stconf/"></h2>
 										<h3>1st Conference 2015</a></h3>
-
 							</div>
-
-
 					</div><!--// .yui-gf -->
 
 					<div class="yui-gf">
@@ -78,46 +59,39 @@
 						</div>
 						<div class="yui-u">
 							<h2>Bug Bash - The Game<h2>
-							<h3><a href="http://cms.rea.tech/bug-bash-the-game/">REA Tech Blog - March 2017</a></h3>
+							<h3><a href="http://cms.rea.tech/bug-bash-the-game/">REA Tech Blog - March 2017</a></h3></br>
 							</ul>
 						</div>
 						<div class="yui-u">
 							<h2>Bug Bash - The Game<h2>
-							<h3><a href="http://www.testingtrapezemagazine.com/wp-content/uploads/2016/12/TestingTrapeze-2016-December-v2.pdf">Testing Trapeze magazine - December 2016</a></h3></br>
+							<h3><a href="http://www.testingtrapezemagazine.com/wp-content/uploads/2016/12/TestingTrapeze-2016-December-v2.pdf">Testing Trapeze magazine - December 2016</a></h3>
 							</ul>
 						</div>
-
-
-
-
 						</div><!--// .yui-gf-->
-
 					<div class="yui-gf">
-
 						<div class="yui-u first">
 							<h2>Slides</h2>
 						</div><!--// .yui-u -->
-
 						<div class="yui-u">
-
 								<h2><a href="http://www.slideshare.net/TheresaNeate/agile-testing-first-conference-2015-melbourne-australia">Agile Testing</a></h2></br>
-								<h2><a href="http://www.slideshare.net/TheresaNeate/last-conf-2015">Agile Testing - shifting quality to the left</a></h2>
-
+								<h2><a href="http://www.slideshare.net/TheresaNeate/last-conf-2015">Agile Testing - shifting quality to the left</a></h2></br>
+								<h2><a href="https://docs.google.com/presentation/d/1AdP2nozfS3FjKNdsmvV9zrgn4qTET7Wb9QgyDwFyCHg/pub?start=false">QA in Ops</a></h2>
 						</div><!--// .yui-u -->
 					</div><!--// .yui-gf -->
 
-
 					<div class="yui-gf last">
 						<div class="yui-u first">
-							<h2>Trainer</h2>
+							<h2>Trainer and co-organiser</h2>
 						</div>
 						<div class="yui-u">
 							<h2><a href = "https://twitter.com/DevOpsGirls#">DevOps Girls</a></h2>
-							<h3>January 2017</h3>
+							</br><h3>January 2017</h3>
+							<p>Basics of AWS: EC2, ELB, LC and ASG</p></br>
+							<h3>(tbc) July 2017</h3>
 							<p>Basics of AWS: EC2, ELB, LC and ASG</p>
+							<p>Basics of CI/CD: Buildkite, GitHub, Docker, tbc</p>
 						</div>
 					</div>
-
 
 		<div id="ft">
 			<br>
@@ -125,12 +99,7 @@
 			</br>Hosted and maintained by Theresa Neate.</p>
 			<p>You can find Theresa Neate on <a href="https://twitter.com/TeresitaTheresa">Twitter</a>.</p>
 		</div><!--// footer -->
-
 	</div><!-- // inner -->
-
-
 </div><!--// doc -->
-
-
 </body>
 </html>
